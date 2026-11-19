@@ -3,7 +3,7 @@
 Text characters, a work gallery and theatrical animation. Beta: adaptation to new scripts is still being improved.
 
 Template & full download: https://motiongit.com/@adunext/character-theater
-Version: 0.1.0-alpha8
+Version: 0.1.1-alpha.1
 Demo available. Check the official page for current download availability.
 
 ## Technical reference

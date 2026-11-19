@@ -3,7 +3,7 @@
 字符角色、作品墙与剧场式动画。内测版，新文案适配仍在完善。
 
 模板与完整下载: https://motiongit.com/@adunext/character-theater
-版本: 0.1.0-alpha8
+版本: 0.1.1-alpha.1
 Demo 已公开，下载开放状态以官网为准。
 
 ## 技术资料
